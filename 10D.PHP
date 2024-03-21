@@ -55,7 +55,7 @@ class TestUsuario {
         echo $usuario . "\n";
         $usuario->cambiarContraseña("nuevaContraseña456");
         echo $usuario . "\n";
-        $usuario->cambiarContraseña("contraseña123");
+        $usuario->cambiarContraseña("contraseña7777");
         echo $usuario . "\n";
     }
 }
